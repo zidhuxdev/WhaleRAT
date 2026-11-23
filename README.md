@@ -25,7 +25,7 @@
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Control Video
 
 <div align="center">
 
